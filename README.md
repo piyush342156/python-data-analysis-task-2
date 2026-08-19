@@ -29,7 +29,7 @@ This project is part of a Python Development Internship and focuses on basic dat
 ### Files
 
 - `employee_data.csv` – Dataset used for the analysis.
-- `data_analysis.ipynb` – Jupyter Notebook containing the complete analysis and visualizations.
+- `Theskybrisk.ipynb` – Jupyter Notebook containing the complete analysis and visualizations.
 
 ### Key Analysis
 
